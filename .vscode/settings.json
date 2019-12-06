@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/todoworks/.local/share/virtualenvs/airbnb-clone-bkI07zJR/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "python.linting.flake8Args": ["--max-line-length=88"]
+}
